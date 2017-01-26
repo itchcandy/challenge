@@ -1,0 +1,23 @@
+{
+    "coins":0,
+    "currentChallengeID": 0,
+    "lastChallenge": "",
+    "twoHourChallengeGiven": false,
+    "list":[
+        {
+            "id":1,
+            "challenge":2,
+            "reward":20,
+            "challenge_detail":"Complete your first challenge",
+            "reward_detail":"20 coins",
+            "isComplete":false
+        },{
+            "id":2,
+            "challenge":2,
+            "reward":20,
+            "challenge_detail":"Complete your first challenge",
+            "reward_detail":"20 coins",
+            "isComplete":false
+        }
+    ]
+}
